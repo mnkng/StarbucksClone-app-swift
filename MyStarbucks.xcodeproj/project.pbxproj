@@ -10,9 +10,20 @@
 		CAAC46062876B2BD00E3C82F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC46052876B2BD00E3C82F /* AppDelegate.swift */; };
 		CAAC46082876B2BD00E3C82F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC46072876B2BD00E3C82F /* SceneDelegate.swift */; };
 		CAAC460A2876B2BD00E3C82F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC46092876B2BD00E3C82F /* ViewController.swift */; };
-		CAAC460D2876B2BD00E3C82F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAAC460B2876B2BD00E3C82F /* Main.storyboard */; };
 		CAAC460F2876B2BE00E3C82F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CAAC460E2876B2BE00E3C82F /* Assets.xcassets */; };
 		CAAC46122876B2BE00E3C82F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CAAC46102876B2BE00E3C82F /* LaunchScreen.storyboard */; };
+		CAAC461B2876B39E00E3C82F /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = CAAC461A2876B39E00E3C82F /* SnapKit */; };
+		CAAC461D2876CF0100E3C82F /* PayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC461C2876CF0100E3C82F /* PayViewController.swift */; };
+		CAAC461F2876D3A200E3C82F /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC461E2876D3A200E3C82F /* SignUpView.swift */; };
+		CAAC46232876FBC800E3C82F /* LoadingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC46222876FBC800E3C82F /* LoadingViewController.swift */; };
+		CAAC46252877107000E3C82F /* CornerButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC46242877107000E3C82F /* CornerButton.swift */; };
+		CAAC462B28795F4800E3C82F /* OrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC462A28795F4700E3C82F /* OrderViewController.swift */; };
+		CAAC462F2879610100E3C82F /* OtherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC462E2879610100E3C82F /* OtherViewController.swift */; };
+		CAAC463328797D2E00E3C82F /* eFrequencyModalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC463228797D2E00E3C82F /* eFrequencyModalViewController.swift */; };
+		CAAC4635287A95ED00E3C82F /* GiftViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC4634287A95ED00E3C82F /* GiftViewController.swift */; };
+		CAAC4637287A9AC500E3C82F /* WhatsNewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC4636287A9AC500E3C82F /* WhatsNewViewController.swift */; };
+		CAAC4639287AA79600E3C82F /* LogInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC4638287AA79600E3C82F /* LogInViewController.swift */; };
+		CAAC4641287AB80A00E3C82F /* UnderLineTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAAC4640287AB80A00E3C82F /* UnderLineTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +31,20 @@
 		CAAC46052876B2BD00E3C82F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CAAC46072876B2BD00E3C82F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CAAC46092876B2BD00E3C82F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		CAAC460C2876B2BD00E3C82F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CAAC460E2876B2BE00E3C82F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CAAC46112876B2BE00E3C82F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CAAC46132876B2BE00E3C82F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CAAC461C2876CF0100E3C82F /* PayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PayViewController.swift; sourceTree = "<group>"; };
+		CAAC461E2876D3A200E3C82F /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
+		CAAC46222876FBC800E3C82F /* LoadingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingViewController.swift; sourceTree = "<group>"; };
+		CAAC46242877107000E3C82F /* CornerButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerButton.swift; sourceTree = "<group>"; };
+		CAAC462A28795F4700E3C82F /* OrderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderViewController.swift; sourceTree = "<group>"; };
+		CAAC462E2879610100E3C82F /* OtherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherViewController.swift; sourceTree = "<group>"; };
+		CAAC463228797D2E00E3C82F /* eFrequencyModalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = eFrequencyModalViewController.swift; sourceTree = "<group>"; };
+		CAAC4634287A95ED00E3C82F /* GiftViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiftViewController.swift; sourceTree = "<group>"; };
+		CAAC4636287A9AC500E3C82F /* WhatsNewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhatsNewViewController.swift; sourceTree = "<group>"; };
+		CAAC4638287AA79600E3C82F /* LogInViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInViewController.swift; sourceTree = "<group>"; };
+		CAAC4640287AB80A00E3C82F /* UnderLineTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UnderLineTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +52,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAAC461B2876B39E00E3C82F /* SnapKit in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,6 +62,7 @@
 		CAAC45F92876B2BD00E3C82F = {
 			isa = PBXGroup;
 			children = (
+				CAAC46222876FBC800E3C82F /* LoadingViewController.swift */,
 				CAAC46042876B2BD00E3C82F /* MyStarbucks */,
 				CAAC46032876B2BD00E3C82F /* Products */,
 			);
@@ -56,10 +79,19 @@
 		CAAC46042876B2BD00E3C82F /* MyStarbucks */ = {
 			isa = PBXGroup;
 			children = (
+				CAAC4640287AB80A00E3C82F /* UnderLineTextField.swift */,
+				CAAC4638287AA79600E3C82F /* LogInViewController.swift */,
+				CAAC461C2876CF0100E3C82F /* PayViewController.swift */,
+				CAAC4634287A95ED00E3C82F /* GiftViewController.swift */,
+				CAAC462E2879610100E3C82F /* OtherViewController.swift */,
+				CAAC461E2876D3A200E3C82F /* SignUpView.swift */,
+				CAAC462A28795F4700E3C82F /* OrderViewController.swift */,
+				CAAC463228797D2E00E3C82F /* eFrequencyModalViewController.swift */,
 				CAAC46052876B2BD00E3C82F /* AppDelegate.swift */,
 				CAAC46072876B2BD00E3C82F /* SceneDelegate.swift */,
 				CAAC46092876B2BD00E3C82F /* ViewController.swift */,
-				CAAC460B2876B2BD00E3C82F /* Main.storyboard */,
+				CAAC4636287A9AC500E3C82F /* WhatsNewViewController.swift */,
+				CAAC46242877107000E3C82F /* CornerButton.swift */,
 				CAAC460E2876B2BE00E3C82F /* Assets.xcassets */,
 				CAAC46102876B2BE00E3C82F /* LaunchScreen.storyboard */,
 				CAAC46132876B2BE00E3C82F /* Info.plist */,
@@ -83,6 +115,9 @@
 			dependencies = (
 			);
 			name = MyStarbucks;
+			packageProductDependencies = (
+				CAAC461A2876B39E00E3C82F /* SnapKit */,
+			);
 			productName = MyStarbucks;
 			productReference = CAAC46022876B2BD00E3C82F /* MyStarbucks.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +146,9 @@
 				Base,
 			);
 			mainGroup = CAAC45F92876B2BD00E3C82F;
+			packageReferences = (
+				CAAC46192876B39E00E3C82F /* XCRemoteSwiftPackageReference "SnapKit" */,
+			);
 			productRefGroup = CAAC46032876B2BD00E3C82F /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,7 +165,6 @@
 			files = (
 				CAAC46122876B2BE00E3C82F /* LaunchScreen.storyboard in Resources */,
 				CAAC460F2876B2BE00E3C82F /* Assets.xcassets in Resources */,
-				CAAC460D2876B2BD00E3C82F /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,23 +175,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CAAC46252877107000E3C82F /* CornerButton.swift in Sources */,
 				CAAC460A2876B2BD00E3C82F /* ViewController.swift in Sources */,
+				CAAC461F2876D3A200E3C82F /* SignUpView.swift in Sources */,
 				CAAC46062876B2BD00E3C82F /* AppDelegate.swift in Sources */,
+				CAAC4641287AB80A00E3C82F /* UnderLineTextField.swift in Sources */,
+				CAAC4635287A95ED00E3C82F /* GiftViewController.swift in Sources */,
 				CAAC46082876B2BD00E3C82F /* SceneDelegate.swift in Sources */,
+				CAAC4639287AA79600E3C82F /* LogInViewController.swift in Sources */,
+				CAAC461D2876CF0100E3C82F /* PayViewController.swift in Sources */,
+				CAAC4637287A9AC500E3C82F /* WhatsNewViewController.swift in Sources */,
+				CAAC46232876FBC800E3C82F /* LoadingViewController.swift in Sources */,
+				CAAC462B28795F4800E3C82F /* OrderViewController.swift in Sources */,
+				CAAC463328797D2E00E3C82F /* eFrequencyModalViewController.swift in Sources */,
+				CAAC462F2879610100E3C82F /* OtherViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		CAAC460B2876B2BD00E3C82F /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				CAAC460C2876B2BD00E3C82F /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		CAAC46102876B2BE00E3C82F /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -293,7 +333,6 @@
 				INFOPLIST_FILE = MyStarbucks/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -320,7 +359,6 @@
 				INFOPLIST_FILE = MyStarbucks/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -358,6 +396,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		CAAC46192876B39E00E3C82F /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit.git";
+			requirement = {
+				branch = develop;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		CAAC461A2876B39E00E3C82F /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = CAAC46192876B39E00E3C82F /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = CAAC45FA2876B2BD00E3C82F /* Project object */;
 }
